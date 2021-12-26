@@ -1,0 +1,56 @@
+[
+ {
+  "id": 2,
+  "fullname": "Ursula Paulooo",
+  "email": "ursula@yahoo.com",
+  "gender": "f",
+  "phone": "+2347085647535",
+  "address": "5, rantech stop, ",
+  "notes": "This Customer is owing 10k"
+ },
+ {
+  "id": 3,
+  "fullname": "Mohammed Hassan",
+  "email": "mohammed@yahoo.com",
+  "gender": "m",
+  "phone": "+2347085647535",
+  "address": "5, rantech stop, ",
+  "notes": "This Customer is owing 10k"
+ },
+ {
+  "id": 4,
+  "fullname": "Naheem Propane",
+  "email": "naheem@yahoo.com",
+  "gender": "m",
+  "phone": "+2347085647535",
+  "address": "3, rantech stop, ",
+  "notes": "This Customer is not owing"
+ },
+ {
+  "id": 5,
+  "fullname": "Susan Loveth",
+  "email": "sussie@yahoo.com",
+  "gender": "f",
+  "phone": "+2347085647535",
+  "address": "6, rantech stop, ",
+  "notes": "This Customer is a debtor"
+ },
+ {
+  "id": 6,
+  "fullname": "Susan Loveth",
+  "email": "susse@yahoo.com",
+  "gender": "f",
+  "phone": "+2347085647535",
+  "address": "6, rantech stop, ",
+  "notes": "This Customer is a debtor"
+ },
+ {
+  "id": 8,
+  "fullname": "Ursul ghiut",
+  "email": "ursula@bamo.com",
+  "gender": "f",
+  "phone": "+2347085647535",
+  "address": "5, rantech stop, ",
+  "notes": "This Customer is owing 10k"
+ }
+]
